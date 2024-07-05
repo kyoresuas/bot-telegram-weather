@@ -1,0 +1,16 @@
+{
+    "name": "telegram-weather-bot",
+    "version": "1.0.0",
+    "description": "Telegram bot that provides detailed weather updates using the OpenWeatherMap API.",
+    "main": "src/bot.js",
+    "scripts": {
+      "start": "node src/bot.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "dotenv": "^10.0.0",
+      "telegraf": "^3.38.0",
+      "winston": "^3.3.3"
+    }
+  }
+  

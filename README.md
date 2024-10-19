@@ -25,8 +25,8 @@ Follow these instructions to set up and run the Telegram Weather Bot on your loc
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/telegram-weather-bot.git
-   cd telegram-weather-bot
+   git clone https://github.com/kyoresuas/bot-telegram-weather.git
+   cd bot-telegram-weather
    ```
    
 2. **Install dependencies:**
